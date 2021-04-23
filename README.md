@@ -2,6 +2,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Deepak_Gautam-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gautamxdeepak/)](https://www.linkedin.com/in/gautamxdeepak/)
 [![Website Badge](https://img.shields.io/badge/-deepak5j.bitbucket.io-47CCCC/?style=plastic&logo=Google-Chrome&logoColor=white&link=https://deepak5j.bitbucket.io/)](https://deepak5j.bitbucket.io/)
+[![Twitter Badge](https://img.shields.io/badge/-@gautamxdeepak-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/gautamxdeepak/)](https://www.linkedin.com/in/gautamxdeepak/)
+ 
+
 
 **Deepak5j/Deepak5j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
