@@ -12,7 +12,7 @@
 
 
 
-[![Instagram Badge](https://img.shields.io/badge/-Deepak5J-149414?style=plastic&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/gautamxdeepak/)](https://www.hackerrank.com/gautamxdeepak)
+[![Hackerrank Badge](https://img.shields.io/badge/-GautamXDeepak-149414?style=plastic&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/gautamxdeepak/)](https://www.hackerrank.com/gautamxdeepak)
 
 
 
