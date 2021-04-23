@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/-https://deepak5j.bitbucket.io-47CCCC/?style=flat&logo=Google-Chrome&logoColor=white&link=https://deepak5j.bitbucket.io/)](https://deepak5j.bitbucket.io/)
 [![Website Badge](https://img.shields.io/badge/-https://deepak5j.bitbucket.io-47CCCC/?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://deepak5j.bitbucket.io/)](https://deepak5j.bitbucket.io/)
 [![Website Badge](https://img.shields.io/badge/-deepak5j.bitbucket.io-47CCCC/?style=plastic&logo=Google-Chrome&logoColor=white&link=https://deepak5j.bitbucket.io/)](https://deepak5j.bitbucket.io/)
-[![Website Badge](https://img.shields.io/badge/-deepak5j.bitbucket.io-47CCCC/?logoWidth=40?style=plastic&logo=Google-Chrome&logoColor=white&link=https://deepak5j.bitbucket.io/)](https://deepak5j.bitbucket.io/)
+[![Website Badge](https://img.shields.io/badge/-deepak5j.bitbucket.io-47CCCC/?logoWidth=100?style=plastic&logo=Google-Chrome&logoColor=white&link=https://deepak5j.bitbucket.io/)](https://deepak5j.bitbucket.io/)
 
 **Deepak5j/Deepak5j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
