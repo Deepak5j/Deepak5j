@@ -12,7 +12,7 @@
 
 
 
-[![HackerRank Badge](https://img.shields.io/badge/-GautamXDeepak-149414?style=plastic&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/gautamxdeepak/)](https://www.hackerrank.com/gautamxdeepak)
+[![HackerRank Badge](https://img.shields.io/badge/-GautamXDeepak-1ba94c?style=plastic&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/gautamxdeepak/)](https://www.hackerrank.com/gautamxdeepak)
 
 [![HackerEarth Badge](https://img.shields.io/badge/-GautamXDeepak-323754?style=plastic&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@gautamxdeepak)](https://www.hackerearth.com/@gautamxdeepak)
 
