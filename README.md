@@ -7,7 +7,7 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-@DeepakGautam-f48024?style=plastic&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/7604395/deepak-gautam?tab=profile)](https://stackoverflow.com/users/7604395/deepak-gautam?tab=profile)
 
-[![Instagram Badge](https://img.shields.io/badge/-@DeepakGautam-000000?style=plastic&logo=github&logoColor=white&link=https://github.com/deepak5j/)](https://github.com/deepak5j/)
+[![Instagram Badge](https://img.shields.io/badge/-Deepak5J-000000?style=plastic&logo=github&logoColor=white&link=https://github.com/deepak5j/)](https://github.com/deepak5j/)
 
 [![Gmail Badge](https://img.shields.io/badge/-gautamxdeepak@gmail.com-c71610?style=plastic&logo=Gmail&logoColor=white&link=mailto:gautamxdeepak@gmail.com)](mailto:gautamxdeepak@gmail.com)
 
