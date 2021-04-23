@@ -20,6 +20,9 @@
  [![FreeCodeCamp Badge](https://img.shields.io/badge/-GautamXDeepak-0a0a23?style=plastic&logo=freecodecamp&logoColor=white&link=https://www.freecodecamp.org/deepak5j)](https://www.freecodecamp.org/deepak5j)
 
  
+ [![YouTube Badge](https://img.shields.io/badge/-GautamXDeepak-f70000?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/c/DeepakGautamX/)](https://www.youtube.com/c/DeepakGautamX/)
+
+ 
 
 
 
