@@ -1,6 +1,6 @@
 <h1 align="center"> Hello! 👋 I am Deepak Gautam </h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-GautamXDeepak-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gautamxdeepak/)](https://www.linkedin.com/in/gautamxdeepak/)
+[![Linkedin Badge](https://img.shields.io/badge/-GautamXDeepak-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gautamxdeepak/)](https://www.linkedin.com/in/gautamxdeepak/)
 [![Website Badge](https://img.shields.io/badge/-Deepak5j.Bitbucket.io-47CCCC/?style=plastic&logo=Google-Chrome&logoColor=white&link=https://deepak5j.bitbucket.io/)](https://deepak5j.bitbucket.io/)
 [![Twitter Badge](https://img.shields.io/badge/-@DeepakGautamX-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GautamxDeepak)](https://twitter.com/GautamxDeepak)
 [![Instagram Badge](https://img.shields.io/badge/-@DeepakGautamX-C13584?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/deepakgautamx)](https://instagram.com/deepakgautamx)
