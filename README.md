@@ -16,6 +16,8 @@
 
 [![Hackerearth Badge](https://img.shields.io/badge/-GautamXDeepak-003366?style=plastic&logo=hackerrank&logoColor=white&link=https://www.hackerearth.com/@gautamxdeepak)](https://www.hackerearth.com/@gautamxdeepak)
 
+[![Hackerearth Badge](https://img.shields.io/badge/-GautamXDeepak-003366?style=plastic&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@gautamxdeepak)](https://www.hackerearth.com/@gautamxdeepak)
+
 
 
 [![Gmail Badge](https://img.shields.io/badge/-gautamxdeepak@gmail.com-c71610?style=plastic&logo=Gmail&logoColor=white&link=mailto:gautamxdeepak@gmail.com)](mailto:gautamxdeepak@gmail.com)
