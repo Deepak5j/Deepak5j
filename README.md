@@ -16,7 +16,7 @@
 
 [![Hackerearth Badge](https://img.shields.io/badge/-GautamXDeepak-003366?style=plastic&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@gautamxdeepak)](https://www.hackerearth.com/@gautamxdeepak)
 
-[![Hackerearth Badge](https://img.shields.io/badge/-GautamXDeepak-003366?style=plastic&logo=tech&logoColor=white&link=https://www.techgig.com/deepakgautam5j)](https://www.techgig.com/deepakgautam5j)
+[![Hackerearth Badge](https://img.shields.io/badge/-GautamXDeepak-003366?style=plastic&logo=TechGIG&logoColor=white&link=https://www.techgig.com/deepakgautam5j)](https://www.techgig.com/deepakgautam5j)
 
 
 
