@@ -16,7 +16,7 @@
 
 [![HackerEarth Badge](https://img.shields.io/badge/-GautamXDeepak-003366?style=plastic&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@gautamxdeepak)](https://www.hackerearth.com/@gautamxdeepak)
 
- [![FreeCodeCamp Badge](https://img.shields.io/badge/-GautamXDeepak-003366?style=plastic&logo=freecodecamp&logoColor=white&link=https://www.freecodecamp.org/deepak5j)](https://www.freecodecamp.org/deepak5j)
+ [![FreeCodeCamp Badge](https://img.shields.io/badge/-GautamXDeepak-0a0a23?style=plastic&logo=freecodecamp&logoColor=white&link=https://www.freecodecamp.org/deepak5j)](https://www.freecodecamp.org/deepak5j)
 
  
 
