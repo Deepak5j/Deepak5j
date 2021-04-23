@@ -4,7 +4,6 @@
 [![Website Badge](https://img.shields.io/badge/-Deepak5j.Bitbucket.io-47CCCC/?style=plastic&logo=Google-Chrome&logoColor=white&link=https://deepak5j.bitbucket.io/)](https://deepak5j.bitbucket.io/)
 [![Twitter Badge](https://img.shields.io/badge/-@DeepakGautamX-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GautamxDeepak)](https://twitter.com/GautamxDeepak)
 [![Instagram Badge](https://img.shields.io/badge/-@DeepakGautamX-C13584?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/deepakgautamx)](https://instagram.com/deepakgautamx)
-[![Instagram Badge](https://img.shields.io/badge/-@DeepakGautamX-833AB4?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/deepakgautamx)](https://instagram.com/deepakgautamx)
 [![Gmail Badge](https://img.shields.io/badge/-gautamxdeepak@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:gautamxdeepak@gmail.com)](mailto:gautamxdeepak@gmail.com)
 ![](https://komarev.com/ghpvc/?username=deepak5j&style=plastic&color=ff69b4)
 
