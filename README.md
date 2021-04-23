@@ -1,6 +1,6 @@
 <h1 align="center"> Hello! 👋 I am Deepak Gautam </h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Deepak Gautam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gautamxdeepak/)](https://www.linkedin.com/in/gautamxdeepak/)
+[![Linkedin Badge](https://img.shields.io/badge/-Deepak_Gautam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gautamxdeepak/)](https://www.linkedin.com/in/gautamxdeepak/)
 
 **Deepak5j/Deepak5j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
