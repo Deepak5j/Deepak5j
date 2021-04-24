@@ -60,7 +60,7 @@
 [<img align="left" alt="visual-studio" width="52px" src="https://img.icons8.com/color/144/000000/visual-studio.png"/>](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio  )
 [<img align="left" alt="" width="52px" src=""/>]()
 --->
-<br/>
+<br/><br/><br/>
 
 ### Resume:
 [<img align="left" alt="" width="52px" src="https://img.icons8.com/officel/144/000000/open-resume.png"/>](https://deepak5j.bitbucket.io/doc/DeepakGautam.pdf)
