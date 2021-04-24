@@ -37,6 +37,7 @@
 [<img align="left" alt="css3" width="52px" src="https://img.icons8.com/color/144/000000/css3.png"/>](https://en.wikipedia.org/wiki/CSS)
 [<img align="left" alt="C#" width="52px" src="https://img.icons8.com/color/150/000000/c-sharp-logo.png"/>](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [<img align="left" alt="c++" width="52px" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png"/>](https://en.wikipedia.org/wiki/C%2B%2B)\
+\
 <!---
 [<img align="left" alt="eclipse" width="52px" src="https://img.icons8.com/officel/144/000000/java-eclipse.png"/>](https://en.wikipedia.org/wiki/Eclipse_(software))
 [<img align="left" alt="mysql" width="52px" src="https://img.icons8.com/color/144/000000/mysql-logo.png"/>](https://en.wikipedia.org/wiki/MySQL)
@@ -49,10 +50,9 @@
 [<img align="left" alt="" width="52px" src=""/>]()
 --->
 \
-
 ### Resume:
 [<img align="left" alt="" width="52px" src="https://img.icons8.com/officel/144/000000/open-resume.png"/>](https://deepak5j.bitbucket.io/doc/DeepakGautam.pdf)
-<br/><br/>
+\
 ### GitHub statistics:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deepak5j&show_icons=true)  
 
