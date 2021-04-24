@@ -11,6 +11,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1d9eee?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GautamxDeepak)](https://twitter.com/GautamxDeepak)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c836ab?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/deepakgautamx)](https://instagram.com/deepakgautamx)
 [![FreeCodeCamp Badge](https://img.shields.io/badge/-FreeCodeCamp-0a0a23?style=plastic&logo=freecodecamp&logoColor=white&link=https://www.freecodecamp.org/deepak5j)](https://www.freecodecamp.org/deepak5j)
+[![FreeCodeCamp Badge](https://img.shields.io/badge/-FreeCodeCamp-1b1b32?style=plastic&logo=freecodecamp&logoColor=white&link=https://www.freecodecamp.org/deepak5j)](https://www.freecodecamp.org/deepak5j)
 [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-1ba94c?style=plastic&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/gautamxdeepak/)](https://www.hackerrank.com/gautamxdeepak)
 [![HackerEarth Badge](https://img.shields.io/badge/-HackerEarth-323754?style=plastic&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@gautamxdeepak)](https://www.hackerearth.com/@gautamxdeepak)
 [![Gmail Badge](https://img.shields.io/badge/-gautamxdeepak@gmail.com-d6493e?style=plastic&logo=Gmail&logoColor=white&link=mailto:gautamxdeepak@gmail.com)](mailto:gautamxdeepak@gmail.com)
