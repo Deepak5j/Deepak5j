@@ -17,7 +17,7 @@
 [![HackerEarth Badge](https://img.shields.io/badge/-HackerEarth-323754?style=plastic&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@gautamxdeepak)](https://www.hackerearth.com/@gautamxdeepak)
 [![Gmail Badge](https://img.shields.io/badge/-gautamxdeepak@gmail.com-d6493e?style=plastic&logo=Gmail&logoColor=white&link=mailto:gautamxdeepak@gmail.com)](mailto:gautamxdeepak@gmail.com)
 ![](https://komarev.com/ghpvc/?username=deepak5j&style=plastic&color=ff69b4)
-   </h1>
+</h1>
 <!---**Deepak5j/Deepak5j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
 <!---Here are some ideas to get you started:--->
 <!--- - 🔭 I’m currently working on ... --->
