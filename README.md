@@ -76,6 +76,5 @@
 
 
 <br/><br/>
-#
 ### GitHub statistics:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deepak5j&show_icons=true)  
