@@ -26,15 +26,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-gautamxdeepak@gmail.com-d6493e?style=plastic&logo=Gmail&logoColor=white&link=mailto:gautamxdeepak@gmail.com)](mailto:gautamxdeepak@gmail.com)
 ![](https://komarev.com/ghpvc/?username=deepak5j&style=plastic&color=ff69b4)
 
-
-
-**Deepak5j/Deepak5j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!---**Deepak5j/Deepak5j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+<!--- - 🔭 I’m currently working on ... --->
+<!--- - 🌱 I’m currently learning ... --->
+<!--- - 👯 I’m looking to collaborate on ... --->
+- 👯 I'm looking to collaboration. Ping me if you have interesting project.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
