@@ -59,8 +59,7 @@
 --->
 
 
-
-
+<br/><br/>
 ### Resume:
 [<img align="left" alt="" width="52px" src="https://img.icons8.com/officel/144/000000/open-resume.png"/>](https://deepak5j.bitbucket.io/doc/DeepakGautam.pdf)
 
