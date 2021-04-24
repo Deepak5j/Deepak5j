@@ -36,9 +36,8 @@
 <!--- - 🤔 I’m looking for help with ... --->
 <!--- - 😄 Pronouns: ... --->
 <!--- - ⚡ Fun fact: ... --->
+
 - 👯 I'm looking for collaboration. Ping me if you have any interesting project.
 - 💬 Ask me about anything related with coding, programming, and algorithm.
 - 📫 How to reach me: Email me or DM on twitter. 
-
-
 
