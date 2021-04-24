@@ -33,10 +33,12 @@
 <!--- - 🔭 I’m currently working on ... --->
 <!--- - 🌱 I’m currently learning ... --->
 <!--- - 👯 I’m looking to collaborate on ... --->
-- 👯 I'm looking for collaboration. Ping me if you have any interesting project.
 <!--- - 🤔 I’m looking for help with ... --->
+<!--- - 😄 Pronouns: ... --->
+<!--- - ⚡ Fun fact: ... --->
+- 👯 I'm looking for collaboration. Ping me if you have any interesting project.
 - 💬 Ask me about anything related with coding, programming, and algorithm.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: Email me or DM on twitter. 
+
+
 
