@@ -11,6 +11,8 @@
 [![HackerEarth Badge](https://img.shields.io/badge/-GautamXDeepak-323754?style=plastic&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@gautamxdeepak)](https://www.hackerearth.com/@gautamxdeepak)
  [![FreeCodeCamp Badge](https://img.shields.io/badge/-GautamXDeepak-0a0a23?style=plastic&logo=freecodecamp&logoColor=white&link=https://www.freecodecamp.org/deepak5j)](https://www.freecodecamp.org/deepak5j)
 [![Gmail Badge](https://img.shields.io/badge/-gautamxdeepak@gmail.com-c71610?style=plastic&logo=Gmail&logoColor=white&link=mailto:gautamxdeepak@gmail.com)](mailto:gautamxdeepak@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gautamxdeepak@gmail.com-d6493e?style=plastic&logo=Gmail&logoColor=white&link=mailto:gautamxdeepak@gmail.com)](mailto:gautamxdeepak@gmail.com)
+
 ![](https://komarev.com/ghpvc/?username=deepak5j&style=plastic&color=ff69b4)
 
 **Deepak5j/Deepak5j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
