@@ -15,7 +15,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-gautamxdeepak@gmail.com-d6493e?style=plastic&logo=Gmail&logoColor=white&link=mailto:gautamxdeepak@gmail.com)](mailto:gautamxdeepak@gmail.com)
 ![](https://komarev.com/ghpvc/?username=deepak5j&style=plastic&color=ff69b4)--->
 
-
 <br/><br/>
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-f70000?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/c/DeepakGautamX/)](https://www.youtube.com/c/DeepakGautamX/)
 [![Website Badge](https://img.shields.io/badge/-Portfolio.Bitbucket.io-026802?style=plastic&logo=Google-Chrome&logoColor=white&link=https://deepak5j.bitbucket.io/)](https://deepak5j.bitbucket.io/)
