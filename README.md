@@ -1,7 +1,7 @@
 <h1 align="center"> Hello! 👋 I'm Deepak Gautam </h1>
 
 
-![](https://komarev.com/ghpvc/?username=deepak5j&style=plastic&color=00ff00)  [![Repository](https://badges.pufler.dev/repos/deepak5j)](https://github.com/Deepak5j)  [![](https://badges.pufler.dev/years/deepak5j)](https://github.com/Deepak5j)
+![](https://komarev.com/ghpvc/?username=deepak5j&style=plastic&color=00ff00)  [![](https://badges.pufler.dev/repos/deepak5j)](https://github.com/Deepak5j)  [![](https://badges.pufler.dev/years/deepak5j)](https://github.com/Deepak5j)
 <!---[![YouTube Badge](https://img.shields.io/badge/-GautamXDeepak-f70000?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/c/DeepakGautamX/)](https://www.youtube.com/c/DeepakGautamX/)
 [![Website Badge](https://img.shields.io/badge/-Deepak5j.Bitbucket.io-026802?style=plastic&logo=Google-Chrome&logoColor=white&link=https://deepak5j.bitbucket.io/)](https://deepak5j.bitbucket.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-GautamXDeepak-0073b0?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gautamxdeepak/)](https://www.linkedin.com/in/gautamxdeepak/)
