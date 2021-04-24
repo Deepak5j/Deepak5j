@@ -61,9 +61,7 @@
 [<img align="left" alt="" width="52px" src=""/>]()
 --->
 
-#
 
-##
 
 ### Resume:
 
