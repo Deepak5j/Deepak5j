@@ -40,7 +40,22 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="52px" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png"/>](https://en.wikipedia.org/wiki/Visual_Studio_Code)
+[<img align="left" alt="visual studio code" width="52px" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png"/>](https://en.wikipedia.org/wiki/Visual_Studio_Code)
+
+[<img align="left" alt="python" width="52px" src="<img src="https://img.icons8.com/color/144/000000/python.png"/>"/>](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
+
+[<img align="left" alt="" width="52px" src="<img src=""/>"/>]()
+[<img align="left" alt="" width="52px" src="<img src=""/>"/>]()
+[<img align="left" alt="" width="52px" src="<img src=""/>"/>]()
+[<img align="left" alt="" width="52px" src="<img src=""/>"/>]()
+[<img align="left" alt="" width="52px" src="<img src=""/>"/>]()
+[<img align="left" alt="" width="52px" src="<img src=""/>"/>]()
+
+
+
+
+
+
 
 
 
