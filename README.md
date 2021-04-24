@@ -27,8 +27,7 @@
 #
 - 👯 I'm looking for collaboration. Ping me if you have any interesting project.
 - 💬 Ask me about anything related with coding, programming, and algorithm.
-- 📫 How to reach me: Email me or DM on twitter. 
-
+- 📫 How to reach me: Email me or DM on twitter. \
 ### Languages:
 [<img align="left" alt="python" width="52px" src="https://img.icons8.com/color/144/000000/python.png"/>](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
 [<img align="left" alt="c" width="52px" src="https://img.icons8.com/color/144/000000/c-programming.png"/>](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -37,8 +36,7 @@
 [<img align="left" alt="html5" width="52px" src="https://img.icons8.com/color/150/000000/html-5--v1.png"/>](https://en.wikipedia.org/wiki/HTML5)
 [<img align="left" alt="css3" width="52px" src="https://img.icons8.com/color/144/000000/css3.png"/>](https://en.wikipedia.org/wiki/CSS)
 [<img align="left" alt="C#" width="52px" src="https://img.icons8.com/color/150/000000/c-sharp-logo.png"/>](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
-[<img align="left" alt="c++" width="52px" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png"/>](https://en.wikipedia.org/wiki/C%2B%2B)
-
+[<img align="left" alt="c++" width="52px" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png"/>](https://en.wikipedia.org/wiki/C%2B%2B)\
 <!---
 [<img align="left" alt="eclipse" width="52px" src="https://img.icons8.com/officel/144/000000/java-eclipse.png"/>](https://en.wikipedia.org/wiki/Eclipse_(software))
 [<img align="left" alt="mysql" width="52px" src="https://img.icons8.com/color/144/000000/mysql-logo.png"/>](https://en.wikipedia.org/wiki/MySQL)
@@ -50,7 +48,7 @@
 [<img align="left" alt="visual-studio" width="52px" src="https://img.icons8.com/color/144/000000/visual-studio.png"/>](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio  )
 [<img align="left" alt="" width="52px" src=""/>]()
 --->
-
+\
 
 ### Resume:
 [<img align="left" alt="" width="52px" src="https://img.icons8.com/officel/144/000000/open-resume.png"/>](https://deepak5j.bitbucket.io/doc/DeepakGautam.pdf)
