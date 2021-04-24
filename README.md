@@ -1,4 +1,5 @@
 <h1 align="center"> Hello! 👋 I'm Deepak Gautam </h1>
+![](https://komarev.com/ghpvc/?username=deepak5j&style=plastic&color=ff69b4)
 
 <!---[![YouTube Badge](https://img.shields.io/badge/-GautamXDeepak-f70000?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/c/DeepakGautamX/)](https://www.youtube.com/c/DeepakGautamX/)
 [![Website Badge](https://img.shields.io/badge/-Deepak5j.Bitbucket.io-026802?style=plastic&logo=Google-Chrome&logoColor=white&link=https://deepak5j.bitbucket.io/)](https://deepak5j.bitbucket.io/)
@@ -24,7 +25,6 @@
 [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-1ba94c?style=plastic&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/gautamxdeepak/)](https://www.hackerrank.com/gautamxdeepak)
 [![HackerEarth Badge](https://img.shields.io/badge/-HackerEarth-323754?style=plastic&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@gautamxdeepak)](https://www.hackerearth.com/@gautamxdeepak)
 [![Gmail Badge](https://img.shields.io/badge/-gautamxdeepak@gmail.com-d6493e?style=plastic&logo=Gmail&logoColor=white&link=mailto:gautamxdeepak@gmail.com)](mailto:gautamxdeepak@gmail.com)
-![](https://komarev.com/ghpvc/?username=deepak5j&style=plastic&color=ff69b4)
 <!---**Deepak5j/Deepak5j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
 <!---Here are some ideas to get you started:--->
 <!--- - 🔭 I’m currently working on ... --->
