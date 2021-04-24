@@ -28,14 +28,14 @@
 
 <!---**Deepak5j/Deepak5j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
 
-Here are some ideas to get you started:
+<!---Here are some ideas to get you started:--->
 
 <!--- - 🔭 I’m currently working on ... --->
 <!--- - 🌱 I’m currently learning ... --->
 <!--- - 👯 I’m looking to collaborate on ... --->
-- 👯 I'm looking to collaboration. Ping me if you have interesting project.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I'm looking for collaboration. Ping me if you have any interesting project.
+<!--- - 🤔 I’m looking for help with ... --->
+- 💬 Ask me about anything related with coding, programming, and algorithm.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
