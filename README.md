@@ -1,7 +1,7 @@
 <h1 align="center"> Hello! 👋 I'm Deepak Gautam </h1>
 
 [![YouTube Badge](https://img.shields.io/badge/-GautamXDeepak-f70000?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/c/DeepakGautamX/)](https://www.youtube.com/c/DeepakGautamX/)
-[![Website Badge](https://img.shields.io/badge/-Deepak5j.Bitbucket.io-47CCCC/?style=plastic&logo=Google-Chrome&logoColor=white&link=https://deepak5j.bitbucket.io/)](https://deepak5j.bitbucket.io/)
+[![Website Badge](https://img.shields.io/badge/-Deepak5j.Bitbucket.io-25aa3d/?style=plastic&logo=Google-Chrome&logoColor=white&link=https://deepak5j.bitbucket.io/)](https://deepak5j.bitbucket.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-GautamXDeepak-0073b0?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gautamxdeepak/)](https://www.linkedin.com/in/gautamxdeepak/)
 [![Github Badge](https://img.shields.io/badge/-Deepak5J-000000?style=plastic&logo=github&logoColor=white&link=https://github.com/deepak5j/)](https://github.com/deepak5j/)
 [![StackOverflow Badge](https://img.shields.io/badge/-DeepakGautam-e9790f?style=plastic&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/7604395/deepak-gautam?tab=profile)](https://stackoverflow.com/users/7604395/deepak-gautam?tab=profile)
