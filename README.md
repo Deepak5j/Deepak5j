@@ -44,33 +44,33 @@
 
 [<img align="left" alt="python" width="52px" src="https://img.icons8.com/color/144/000000/python.png"/>](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
 
-[<img align="left" alt="visual-studio" width="52px" src="https://img.icons8.com/color/144/000000/visual-studio.png"/>]()
+[<img align="left" alt="visual-studio" width="52px" src="https://img.icons8.com/color/144/000000/visual-studio.png"/>](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio  )
 
-[<img align="left" alt="c++" width="52px" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png"/>]()
+[<img align="left" alt="c++" width="52px" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png"/>](https://en.wikipedia.org/wiki/C%2B%2B)
 
-[<img align="left" alt="c" width="52px" src="https://img.icons8.com/color/144/000000/c-programming.png"/>]()
+[<img align="left" alt="c" width="52px" src="https://img.icons8.com/color/144/000000/c-programming.png"/>](https://en.wikipedia.org/wiki/C_(programming_language))
 
-[<img align="left" alt="C#" width="52px" src="https://img.icons8.com/color/150/000000/c-sharp-logo.png"/>]()
+[<img align="left" alt="C#" width="52px" src="https://img.icons8.com/color/150/000000/c-sharp-logo.png"/>](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 
-[<img align="left" alt="java" width="52px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>]()
+[<img align="left" alt="java" width="52px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>](https://en.wikipedia.org/wiki/Java_(programming_language))
 
-[<img align="left" alt="javascript" width="52px" src="https://img.icons8.com/color/144/000000/javascript.png"/>]()
+[<img align="left" alt="javascript" width="52px" src="https://img.icons8.com/color/144/000000/javascript.png"/>](https://en.wikipedia.org/wiki/JavaScript)
 
-[<img align="left" alt="html5" width="52px" src="https://img.icons8.com/color/150/000000/html-5--v1.png"/>]()
+[<img align="left" alt="html5" width="52px" src="https://img.icons8.com/color/150/000000/html-5--v1.png"/>](https://en.wikipedia.org/wiki/HTML5)
 
-[<img align="left" alt="css3" width="52px" src="https://img.icons8.com/color/144/000000/css3.png"/>]()
+[<img align="left" alt="css3" width="52px" src="https://img.icons8.com/color/144/000000/css3.png"/>](https://en.wikipedia.org/wiki/CSS)
 
-[<img align="left" alt="eclipse" width="52px" src="https://img.icons8.com/officel/144/000000/java-eclipse.png"/>]()
+[<img align="left" alt="eclipse" width="52px" src="https://img.icons8.com/officel/144/000000/java-eclipse.png"/>](https://en.wikipedia.org/wiki/Eclipse_(software))
 
-[<img align="left" alt="sql" width="52px" src="https://img.icons8.com/color/144/000000/mysql-logo.png"/>]()
+[<img align="left" alt="mysql" width="52px" src="https://img.icons8.com/color/144/000000/mysql-logo.png"/>](https://en.wikipedia.org/wiki/MySQL)
 
-[<img align="left" alt="linux" width="52px" src="https://img.icons8.com/color/144/000000/linux.png"/>]()
+[<img align="left" alt="linux" width="52px" src="https://img.icons8.com/color/144/000000/linux.png"/>](https://en.wikipedia.org/wiki/Linux)
 
-[<img align="left" alt="artificial intelligence" width="52px" src="https://img.icons8.com/cotton/64/000000/artificial-intelligence.png"/>]()
+[<img align="left" alt="artificial intelligence" width="52px" src="https://img.icons8.com/cotton/64/000000/artificial-intelligence.png"/>](https://en.wikipedia.org/wiki/Artificial_intelligence)
 
-[<img align="left" alt="kali" width="52px" src="https://img.icons8.com/color/144/000000/kali-linux.png"/>]()
+[<img align="left" alt="kali" width="52px" src="https://img.icons8.com/color/144/000000/kali-linux.png"/>](https://en.wikipedia.org/wiki/Kali_Linux)
 
-[<img align="left" alt="windows-10" width="52px" src="https://img.icons8.com/color/144/000000/windows-10.png"/>]()
+[<img align="left" alt="windows-10" width="52px" src="https://img.icons8.com/color/144/000000/windows-10.png"/>](https://en.wikipedia.org/wiki/Windows_10)
 
 [<img align="left" alt="" width="52px" src=""/>]()
 
