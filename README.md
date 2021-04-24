@@ -1,7 +1,7 @@
 <h1 align="center"> Hello! 👋 I'm Deepak Gautam </h1>
 
 
-# ![](https://komarev.com/ghpvc/?username=deepak5j&style=plastic&color=ff69b4)  [![Repos Badge](https://badges.pufler.dev/repos/deepak5j)](https://badges.pufler.dev)
+# ![](https://komarev.com/ghpvc/?username=deepak5j&style=plastic&color=ff69b4)  [![Repos Badge](https://badges.pufler.dev/repos/deepak5j)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
 <!---[![YouTube Badge](https://img.shields.io/badge/-GautamXDeepak-f70000?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/c/DeepakGautamX/)](https://www.youtube.com/c/DeepakGautamX/)
 [![Website Badge](https://img.shields.io/badge/-Deepak5j.Bitbucket.io-026802?style=plastic&logo=Google-Chrome&logoColor=white&link=https://deepak5j.bitbucket.io/)](https://deepak5j.bitbucket.io/)
