@@ -7,9 +7,9 @@
 [![StackOverflow Badge](https://img.shields.io/badge/-DeepakGautam-e9790f?style=plastic&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/7604395/deepak-gautam?tab=profile)](https://stackoverflow.com/users/7604395/deepak-gautam?tab=profile)
 [![Twitter Badge](https://img.shields.io/badge/-DeepakGautamX-1d9eee?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GautamxDeepak)](https://twitter.com/GautamxDeepak)
 [![Instagram Badge](https://img.shields.io/badge/-DeepakGautamX-c836ab?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/deepakgautamx)](https://instagram.com/deepakgautamx)
+[![FreeCodeCamp Badge](https://img.shields.io/badge/-GautamXDeepak-0a0a23?style=plastic&logo=freecodecamp&logoColor=white&link=https://www.freecodecamp.org/deepak5j)](https://www.freecodecamp.org/deepak5j)
 [![HackerRank Badge](https://img.shields.io/badge/-GautamXDeepak-1ba94c?style=plastic&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/gautamxdeepak/)](https://www.hackerrank.com/gautamxdeepak)
 [![HackerEarth Badge](https://img.shields.io/badge/-GautamXDeepak-323754?style=plastic&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@gautamxdeepak)](https://www.hackerearth.com/@gautamxdeepak)
- [![FreeCodeCamp Badge](https://img.shields.io/badge/-GautamXDeepak-0a0a23?style=plastic&logo=freecodecamp&logoColor=white&link=https://www.freecodecamp.org/deepak5j)](https://www.freecodecamp.org/deepak5j)
 [![Gmail Badge](https://img.shields.io/badge/-gautamxdeepak@gmail.com-d6493e?style=plastic&logo=Gmail&logoColor=white&link=mailto:gautamxdeepak@gmail.com)](mailto:gautamxdeepak@gmail.com)
 ![](https://komarev.com/ghpvc/?username=deepak5j&style=plastic&color=ff69b4)
 
