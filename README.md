@@ -46,7 +46,7 @@
 - 💬 Ask me about anything related with coding, programming, and algorithm.
 - 📫 How to reach me: Email me or DM on twitter. 
 
-
+#
 ### Languages:
 [<img align="left" alt="python" width="52px" src="https://img.icons8.com/color/144/000000/python.png"/>](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
 [<img align="left" alt="c" width="52px" src="https://img.icons8.com/color/144/000000/c-programming.png"/>](https://en.wikipedia.org/wiki/C_(programming_language))
