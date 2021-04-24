@@ -1,8 +1,7 @@
 
 <h1 align="center"> Hello! 👋 I'm Deepak Gautam </h1>
 
-# [![Gmail Badge](https://img.shields.io/badge/-gautamxdeepak@gmail.com-d6493e?style=plastic&logo=Gmail&logoColor=white&link=mailto:gautamxdeepak@gmail.com)](mailto:gautamxdeepak@gmail.com)
-![](https://komarev.com/ghpvc/?username=deepak5j&style=plastic&color=ff69b4)
+# [![Gmail Badge](https://img.shields.io/badge/-gautamxdeepak@gmail.com-d6493e?style=plastic&logo=Gmail&logoColor=white&link=mailto:gautamxdeepak@gmail.com)](mailto:gautamxdeepak@gmail.com) ![](https://komarev.com/ghpvc/?username=deepak5j&style=plastic&color=ff69b4)
 
 
 
