@@ -30,7 +30,7 @@
 #
 - 👯 I'm looking for collaboration. Ping me if you have any interesting project.
 - 💬 Ask me about anything related with coding, programming, and algorithm.
-- 📫 How to reach me: Email me or DM on twitter. \
+- 📫 How to reach me: Email me or DM on twitter. 
 
 
 ### Languages:
@@ -41,7 +41,7 @@
 [<img align="left" alt="html5" width="52px" src="https://img.icons8.com/color/150/000000/html-5--v1.png"/>](https://en.wikipedia.org/wiki/HTML5)
 [<img align="left" alt="css3" width="52px" src="https://img.icons8.com/color/144/000000/css3.png"/>](https://en.wikipedia.org/wiki/CSS)
 [<img align="left" alt="C#" width="52px" src="https://img.icons8.com/color/150/000000/c-sharp-logo.png"/>](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
-[<img align="left" alt="c++" width="52px" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png"/>](https://en.wikipedia.org/wiki/C%2B%2B)\
+[<img align="left" alt="c++" width="52px" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png"/>](https://en.wikipedia.org/wiki/C%2B%2B)
 
 
 <!---
