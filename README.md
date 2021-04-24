@@ -3,6 +3,7 @@
 
 # ![](https://komarev.com/ghpvc/?username=deepak5j&style=plastic&color=ff69b4)  [![Repos Badge](https://badges.pufler.dev/repos/deepak5j)](https://badges.pufler.dev)
 
+
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-f70000?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/c/DeepakGautamX/)](https://www.youtube.com/c/DeepakGautamX/)
 [![Website Badge](https://img.shields.io/badge/-Portfolio.Bitbucket.io-026802?style=plastic&logo=Google-Chrome&logoColor=white&link=https://deepak5j.bitbucket.io/)](https://deepak5j.bitbucket.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0073b0?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gautamxdeepak/)](https://www.linkedin.com/in/gautamxdeepak/)
@@ -15,6 +16,7 @@
 [![HackerEarth Badge](https://img.shields.io/badge/-HackerEarth-323754?style=plastic&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@gautamxdeepak)](https://www.hackerearth.com/@gautamxdeepak)
 [![Gmail Badge](https://img.shields.io/badge/-gautamxdeepak@gmail.com-d6493e?style=plastic&logo=Gmail&logoColor=white&link=mailto:gautamxdeepak@gmail.com)](mailto:gautamxdeepak@gmail.com)
 
+
 <!---**Deepak5j/Deepak5j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
 <!---Here are some ideas to get you started:--->
 <!--- - 🔭 I’m currently working on ... --->
@@ -23,11 +25,14 @@
 <!--- - 🤔 I’m looking for help with ... --->
 <!--- - 😄 Pronouns: ... --->
 <!--- - ⚡ Fun fact: ... --->
- 
+
+
 #
 - 👯 I'm looking for collaboration. Ping me if you have any interesting project.
 - 💬 Ask me about anything related with coding, programming, and algorithm.
 - 📫 How to reach me: Email me or DM on twitter. \
+
+
 ### Languages:
 [<img align="left" alt="python" width="52px" src="https://img.icons8.com/color/144/000000/python.png"/>](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
 [<img align="left" alt="c" width="52px" src="https://img.icons8.com/color/144/000000/c-programming.png"/>](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -37,7 +42,8 @@
 [<img align="left" alt="css3" width="52px" src="https://img.icons8.com/color/144/000000/css3.png"/>](https://en.wikipedia.org/wiki/CSS)
 [<img align="left" alt="C#" width="52px" src="https://img.icons8.com/color/150/000000/c-sharp-logo.png"/>](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [<img align="left" alt="c++" width="52px" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png"/>](https://en.wikipedia.org/wiki/C%2B%2B)\
-\
+
+
 <!---
 [<img align="left" alt="eclipse" width="52px" src="https://img.icons8.com/officel/144/000000/java-eclipse.png"/>](https://en.wikipedia.org/wiki/Eclipse_(software))
 [<img align="left" alt="mysql" width="52px" src="https://img.icons8.com/color/144/000000/mysql-logo.png"/>](https://en.wikipedia.org/wiki/MySQL)
@@ -49,10 +55,12 @@
 [<img align="left" alt="visual-studio" width="52px" src="https://img.icons8.com/color/144/000000/visual-studio.png"/>](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio  )
 [<img align="left" alt="" width="52px" src=""/>]()
 --->
-\
+
+
 ### Resume:
 [<img align="left" alt="" width="52px" src="https://img.icons8.com/officel/144/000000/open-resume.png"/>](https://deepak5j.bitbucket.io/doc/DeepakGautam.pdf)
-\
+
+
 ### GitHub statistics:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deepak5j&show_icons=true)  
 
