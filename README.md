@@ -26,7 +26,7 @@ https://badges.pufler.dev
 [![FreeCodeCamp Badge](https://img.shields.io/badge/-FreeCodeCamp-1b1b32?style=plastic&logo=freecodecamp&logoColor=white&link=https://www.freecodecamp.org/deepak5j)](https://www.freecodecamp.org/deepak5j)
 [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-1ba94c?style=plastic&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/gautamxdeepak/)](https://www.hackerrank.com/gautamxdeepak)
 [![HackerEarth Badge](https://img.shields.io/badge/-HackerEarth-323754?style=plastic&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@gautamxdeepak)](https://www.hackerearth.com/@gautamxdeepak)
-[![Blog Badge](https://img.shields.io/badge/-blogger-0000ff?style=plastic&logo=web&logoColor=white&link=https://deepakgautamx.blogspot.com/)](https://deepakgautamx.blogspot.com/)
+[![Blog Badge](https://img.shields.io/badge/-Blog-0000ff?style=plastic&logo=blogger&logoColor=white&link=https://deepakgautamx.blogspot.com/)](https://deepakgautamx.blogspot.com/)
 [![Quora Badge](https://img.shields.io/badge/-Quora-b92b27?style=plastic&logo=quora&logoColor=white&link=https://www.quora.com/profile/Deepak-Gautam-111)](https://www.quora.com/profile/Deepak-Gautam-111)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=plastic&logo=facebook&logoColor=white&link=https://www.facebook.com/gautamxdeepak)](https://www.facebook.com/gautamxdeepak)
 [![Gmail Badge](https://img.shields.io/badge/-gautamxdeepak@gmail.com-d6493e?style=plastic&logo=Gmail&logoColor=white&link=mailto:gautamxdeepak@gmail.com)](mailto:gautamxdeepak@gmail.com)
