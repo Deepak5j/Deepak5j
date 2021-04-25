@@ -28,8 +28,8 @@ https://badges.pufler.dev
 [![HackerEarth Badge](https://img.shields.io/badge/-HackerEarth-323754?style=plastic&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@gautamxdeepak)](https://www.hackerearth.com/@gautamxdeepak)
 
 [![Blog Badge](https://img.shields.io/badge/-Blog-323754?style=plastic&logo=facebook&logoColor=white&link=https://deepakgautamx.blogspot.com/)](https://deepakgautamx.blogspot.com/)
-[![Quora Badge](https://img.shields.io/badge/-HackerEarth-323754?style=plastic&logo=quora&logoColor=white&link=https://www.hackerearth.com/@gautamxdeepak)](https://www.hackerearth.com/@gautamxdeepak)
-[![Facebook Badge](https://img.shields.io/badge/-HackerEarth-323754?style=plastic&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@gautamxdeepak)](https://www.hackerearth.com/@gautamxdeepak)
+[![Quora Badge](https://img.shields.io/badge/-HackerEarth-b92b27?style=plastic&logo=quora&logoColor=white&link=https://www.hackerearth.com/@gautamxdeepak)](https://www.hackerearth.com/@gautamxdeepak)
+[![Facebook Badge](https://img.shields.io/badge/-HackerEarth-1877f2?style=plastic&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@gautamxdeepak)](https://www.hackerearth.com/@gautamxdeepak)
 
 [![Gmail Badge](https://img.shields.io/badge/-gautamxdeepak@gmail.com-d6493e?style=plastic&logo=Gmail&logoColor=white&link=mailto:gautamxdeepak@gmail.com)](mailto:gautamxdeepak@gmail.com)
 
