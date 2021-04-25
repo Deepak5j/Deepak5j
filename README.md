@@ -26,6 +26,11 @@ https://badges.pufler.dev
 [![FreeCodeCamp Badge](https://img.shields.io/badge/-FreeCodeCamp-1b1b32?style=plastic&logo=freecodecamp&logoColor=white&link=https://www.freecodecamp.org/deepak5j)](https://www.freecodecamp.org/deepak5j)
 [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-1ba94c?style=plastic&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/gautamxdeepak/)](https://www.hackerrank.com/gautamxdeepak)
 [![HackerEarth Badge](https://img.shields.io/badge/-HackerEarth-323754?style=plastic&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@gautamxdeepak)](https://www.hackerearth.com/@gautamxdeepak)
+
+[![Blog Badge](https://img.shields.io/badge/-Blog-323754?style=plastic&logo=blog&logoColor=white&link=https://deepakgautamx.blogspot.com/)](https://deepakgautamx.blogspot.com/)
+[![Quora Badge](https://img.shields.io/badge/-HackerEarth-323754?style=plastic&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@gautamxdeepak)](https://www.hackerearth.com/@gautamxdeepak)
+[![Facebook Badge](https://img.shields.io/badge/-HackerEarth-323754?style=plastic&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@gautamxdeepak)](https://www.hackerearth.com/@gautamxdeepak)
+
 [![Gmail Badge](https://img.shields.io/badge/-gautamxdeepak@gmail.com-d6493e?style=plastic&logo=Gmail&logoColor=white&link=mailto:gautamxdeepak@gmail.com)](mailto:gautamxdeepak@gmail.com)
 
 
