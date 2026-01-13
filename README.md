@@ -73,8 +73,7 @@ https://badges.pufler.dev
 
 <br/><br/>
 ### Resume:
-[<img align="left" alt="" width="52px" src="https://img.icons8.com/officel/144/000000/open-resume.png"/>](https://raw.githubusercontent.com/Deepak5j/WebImages/master/Documents/DeepakGautamCV-10-Jan-2026.pdf
-)
+[<img align="left" alt="" width="52px" src="https://img.icons8.com/officel/144/000000/open-resume.png"/>](https://cdn.jsdelivr.net/gh/Deepak5j/WebImages@master/Documents/DeepakGautamCV-10-Jan-2026.pdf)
 
 
 <br/><br/>
