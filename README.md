@@ -10,7 +10,7 @@ https://badges.pufler.dev
 [![StackOverflow Badge](https://img.shields.io/badge/-DeepakGautam-e9790f?style=plastic&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/7604395/deepak-gautam?tab=profile)](https://stackoverflow.com/users/7604395/deepak-gautam?tab=profile)
 [![Twitter Badge](https://img.shields.io/badge/-DeepakGautamX-1d9eee?style=plastic&labelColor=000000&logo=twitter&logoColor=white&link=https://x.com/deepakgautamx1)](https://x.com/deepakgautamx1)
 s
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fdeepakgautamx1)
+[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fdeepakgautamx1)]
 d
 [![X](https://img.shields.io/badge/DeepakGautamX-%23000000.svg?style=plastic&logo=x&logoColor=white)](https://x.com/deepakgautamx1)
 h
