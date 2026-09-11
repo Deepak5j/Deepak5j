@@ -15,8 +15,7 @@ https://badges.pufler.dev
 [![HackerEarth Badge](https://img.shields.io/badge/-GautamXDeepak-323754?style=plastic&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@gautamxdeepak)](https://www.hackerearth.com/@gautamxdeepak)
 [![Gmail Badge](https://img.shields.io/badge/-gautamxdeepak@gmail.com-d6493e?style=plastic&logo=Gmail&logoColor=white&link=mailto:gautamxdeepak@gmail.com)](mailto:gautamxdeepak@gmail.com)
 ![](https://komarev.com/ghpvc/?username=deepak5j&style=plastic&color=ff69b4) -->
-
-
+<br/><br/>
 [![Fiverr Badge](https://img.shields.io/badge/Fiverr-1DBF73?style=plastic&logo=fiverr&logoColor=white)](https://www.fiverr.com/deepak675/create-ultra-hyperrealistic-cinematic-ai-videos)
 [![TeePublic Badge](https://img.shields.io/badge/TeePublic-3B5998?style=plastic&logo=teepublic&logoColor=white)](https://www.teepublic.com/user/dgxt)
 
