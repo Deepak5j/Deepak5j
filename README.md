@@ -18,6 +18,8 @@ https://badges.pufler.dev
 
 [![Fiverr Badge](https://img.shields.io/badge/Fiverr-1DBF73?style=plastic&logo=fiverr&logoColor=white)](https://www.fiverr.com/deepak675/create-ultra-hyperrealistic-cinematic-ai-videos)
 
+[![Fiverr Badge](https://img.shields.io/badge/Fiverr-000000?style=plastic&logo=fiverr&logoColor=white)](https://www.fiverr.com/deepak675/create-ultra-hyperrealistic-cinematic-ai-videos)
+
 [![X Badge](https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white)](https://x.com/deepakgautamx1)
 [![Gmail Badge](https://img.shields.io/badge/-DGXMails@gmail.com-d6493e?style=plastic&logo=Gmail&logoColor=white&link=mailto:DGXMails@gmail.com)](mailto:DGXmails@gmail.com)
 
