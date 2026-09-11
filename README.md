@@ -18,6 +18,7 @@ https://badges.pufler.dev
 
 [![X Badge](https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white)](https://x.com/deepakgautamx1)
 [![Gmail Badge](https://img.shields.io/badge/-DGXMails@gmail.com-d6493e?style=plastic&logo=Gmail&logoColor=white&link=mailto:DGXMails@gmail.com)](mailto:DGXmails@gmail.com)
+
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-f70000?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/c/DeepakGautamX/)](https://www.youtube.com/c/DeepakGautamX/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=plastic&logo=facebook&logoColor=white&link=https://www.facebook.com/gautamxdeepak)](https://www.facebook.com/deepakgautamx)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c836ab?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/deepakgautamx)](https://instagram.com/deepakgautamx) 
