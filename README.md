@@ -28,7 +28,7 @@ https://badges.pufler.dev
 [![HackerEarth Badge](https://img.shields.io/badge/-HackerEarth-323754?style=plastic&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@gautamxdeepak)](https://www.hackerearth.com/@gautamxdeepak)
 [![Blog Badge](https://img.shields.io/badge/-Blog-0000ff?style=plastic&logo=blogger&logoColor=white&link=https://deepakgautamx.blogspot.com/)](https://deepakgautamx.blogspot.com/)
 [![Quora Badge](https://img.shields.io/badge/-Quora-b92b27?style=plastic&logo=quora&logoColor=white&link=https://www.quora.com/profile/Deepak-Gautam-111)](https://www.quora.com/profile/Deepak-Gautam-111)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=plastic&logo=facebook&logoColor=white&link=https://www.facebook.com/gautamxdeepak)](https://www.facebook.com/gautamxdeepak)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=plastic&logo=facebook&logoColor=white&link=https://www.facebook.com/gautamxdeepak)](https://www.facebook.com/deepakgautamx)
 [![Gmail Badge](https://img.shields.io/badge/-DGXMails@gmail.com-d6493e?style=plastic&logo=Gmail&logoColor=white&link=mailto:DGXMails@gmail.com)](mailto:DGXmails@gmail.com)
 
 
