@@ -23,7 +23,6 @@ https://badges.pufler.dev
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0073b0?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gautamxdeepak/)](https://www.linkedin.com/in/gautamxdeepak/)
 [![Github Badge](https://img.shields.io/badge/-Github-000000?style=plastic&logo=github&logoColor=white&link=https://github.com/deepak5j/)](https://github.com/deepak5j/)
 [![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-e9790f?style=plastic&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/7604395/deepak-gautam?tab=profile)](https://stackoverflow.com/users/7604395/deepak-gautam?tab=profile)
-
 [![X Badge](https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white)](https://x.com/deepakgautamx1)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c836ab?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/deepakgautamx)](https://instagram.com/deepakgautamx) 
 [![FreeCodeCamp Badge](https://img.shields.io/badge/-FreeCodeCamp-1b1b32?style=plastic&logo=freecodecamp&logoColor=white&link=https://www.freecodecamp.org/deepak5j)](https://www.freecodecamp.org/deepak5j)
