@@ -86,3 +86,13 @@ https://badges.pufler.dev
 <br/><br/>
 ### GitHub statistics:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deepak5j&show_icons=true)  
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepak5j&show_icons=true&theme=dark)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepak5j&show_icons=true&theme=radical)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepak5j&show_icons=true&theme=tokyonight&rank_icon=github)
