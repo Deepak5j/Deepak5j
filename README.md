@@ -21,7 +21,7 @@ https://badges.pufler.dev
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0073b0?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gautamxdeepak/)](https://www.linkedin.com/in/gautamxdeepak/)
 [![Github Badge](https://img.shields.io/badge/-Github-000000?style=plastic&logo=github&logoColor=white&link=https://github.com/deepak5j/)](https://github.com/deepak5j/)
 [![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-e9790f?style=plastic&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/7604395/deepak-gautam?tab=profile)](https://stackoverflow.com/users/7604395/deepak-gautam?tab=profile)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1d9eee?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GautamxDeepak)](https://twitter.com/GautamxDeepak)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1d9eee?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/deepakgautamx1)](https://x.com/deepakgautamx1)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c836ab?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/deepakgautamx)](https://instagram.com/deepakgautamx) 
 [![FreeCodeCamp Badge](https://img.shields.io/badge/-FreeCodeCamp-1b1b32?style=plastic&logo=freecodecamp&logoColor=white&link=https://www.freecodecamp.org/deepak5j)](https://www.freecodecamp.org/deepak5j)
 [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-1ba94c?style=plastic&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/gautamxdeepak/)](https://www.hackerrank.com/gautamxdeepak)
@@ -44,7 +44,7 @@ https://badges.pufler.dev
 
 - 👯 I'm looking for collaboration. Ping me if you have any interesting project.
 - 💬 Ask me about anything related with coding, programming, and algorithm.
-- 📫 How to reach me: Email me or DM on twitter. 
+- 📫 How to reach me: Email me or DM on X. 
 
 
 ### Languages:
