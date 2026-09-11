@@ -8,7 +8,7 @@
 [![Github Badge](https://img.shields.io/badge/-Deepak5J-000000?style=plastic&logo=github&logoColor=white&link=https://github.com/deepak5j/)](https://github.com/deepak5j/)
 https://badges.pufler.dev
 [![StackOverflow Badge](https://img.shields.io/badge/-DeepakGautam-e9790f?style=plastic&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/7604395/deepak-gautam?tab=profile)](https://stackoverflow.com/users/7604395/deepak-gautam?tab=profile)
-[![Twitter Badge](https://img.shields.io/badge/-DeepakGautamX-1d9eee?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GautamxDeepak)](https://twitter.com/GautamxDeepak)
+[![Twitter Badge](https://img.shields.io/badge/-DeepakGautamX-1d9eee?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GautamxDeepak)](https://x.com/deepakgautamx1)
 [![Instagram Badge](https://img.shields.io/badge/-DeepakGautamX-c836ab?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/deepakgautamx)](https://instagram.com/deepakgautamx)
 [![FreeCodeCamp Badge](https://img.shields.io/badge/-GautamXDeepak-0a0a23?style=plastic&logo=freecodecamp&logoColor=white&link=https://www.freecodecamp.org/deepak5j)](https://www.freecodecamp.org/deepak5j)
 [![HackerRank Badge](https://img.shields.io/badge/-GautamXDeepak-1ba94c?style=plastic&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/gautamxdeepak/)](https://www.hackerrank.com/gautamxdeepak)
