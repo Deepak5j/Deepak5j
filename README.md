@@ -15,7 +15,7 @@ https://badges.pufler.dev
 [![HackerEarth Badge](https://img.shields.io/badge/-GautamXDeepak-323754?style=plastic&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@gautamxdeepak)](https://www.hackerearth.com/@gautamxdeepak)
 [![Gmail Badge](https://img.shields.io/badge/-gautamxdeepak@gmail.com-d6493e?style=plastic&logo=Gmail&logoColor=white&link=mailto:gautamxdeepak@gmail.com)](mailto:gautamxdeepak@gmail.com)
 ![](https://komarev.com/ghpvc/?username=deepak5j&style=plastic&color=ff69b4) -->
-<br/><br/>
+
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-f70000?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/c/DeepakGautamX/)](https://www.youtube.com/c/DeepakGautamX/)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-026802?style=plastic&logo=Google-Chrome&logoColor=white&link=https://deepak5j.bitbucket.io/)](https://deepak5j.bitbucket.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0073b0?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gautamxdeepak/)](https://www.linkedin.com/in/gautamxdeepak/)
@@ -29,7 +29,7 @@ https://badges.pufler.dev
 [![Blog Badge](https://img.shields.io/badge/-Blog-0000ff?style=plastic&logo=blogger&logoColor=white&link=https://deepakgautamx.blogspot.com/)](https://deepakgautamx.blogspot.com/)
 [![Quora Badge](https://img.shields.io/badge/-Quora-b92b27?style=plastic&logo=quora&logoColor=white&link=https://www.quora.com/profile/Deepak-Gautam-111)](https://www.quora.com/profile/Deepak-Gautam-111)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=plastic&logo=facebook&logoColor=white&link=https://www.facebook.com/gautamxdeepak)](https://www.facebook.com/gautamxdeepak)
-[![Gmail Badge](https://img.shields.io/badge/-gautamxdeepak@gmail.com-d6493e?style=plastic&logo=Gmail&logoColor=white&link=mailto:gautamxdeepak@gmail.com)](mailto:gautamxdeepak@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-DGXMails@gmail.com-d6493e?style=plastic&logo=Gmail&logoColor=white&link=mailto:DGXMails@gmail.com)](mailto:DGXmails@gmail.com)
 
 
 <!---**Deepak5j/Deepak5j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
